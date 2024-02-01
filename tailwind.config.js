@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        inter: ["Inter",  "regular"],
+        'inter': ['Inter'],
       },
       backgroundImage:{
         'hero-bg' : "url('/src/assets/home-bg.jpeg')"
